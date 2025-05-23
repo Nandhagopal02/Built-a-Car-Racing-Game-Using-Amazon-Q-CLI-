@@ -29,20 +29,5 @@ Get suggestions for smooth UI like rounded car edges and better lane graphics
 
 🎮 Smooth animations and responsive controls
 
-🎧 Coming Soon
-I'm currently working on adding:
-
-Background music 🎶
-
-Sound effects for crashes or level-ups 💥
-
-Better visual effects like motion blur or explosions
-
-🔗 Source Code
-Check out the GitHub repo here:
-👉 github.com/nandhagopal/car-racing-game (replace with your link)
-
 💬 Final Thoughts
 Thanks to Amazon Q CLI, I was able to build this project quickly while focusing more on creativity than code syntax. It’s a great tool for any aspiring game developer or hobbyist.
-
-If you’re based in the Asia Pacific, Japan, or Greater China region, you can even redeem a T-shirt by participating!
